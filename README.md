@@ -1,4 +1,4 @@
-# -Root-Cause-Lockout-Investigation
+# Root-Cause-Lockout-Investigation
 
 # Overview
 This project goes beyond simply unlocking a locked account — it walks through using Windows Event Viewer to identify the root cause of a lockout before resolving it, giving a fuller picture of why an account locked out rather than just fixing the symptom.
